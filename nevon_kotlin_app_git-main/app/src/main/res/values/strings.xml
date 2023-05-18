@@ -1,0 +1,92 @@
+<resources>
+    <string name="task">My Appointments</string>
+    <string name="create_tasks">Confirm Appointment</string>
+    <string name="new_task">New Appointment</string>
+    <string name="title">Hair Style Code</string>
+    <string name="data">Date</string>
+    <string name="timer">Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="to_edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="app_name">Recipe Book</string>
+
+    //pasta
+
+    <string name="pastaIngredients">Pasta
+\nCream Cheese
+\nParmesan Cheese
+\nOlive Oil
+\nGarlic
+\nSalt Pepper</string>
+    <string name="pastaDesc">This hairdryer is specially suited to coloured hair. It helps to prevent loss of colour,
+        shine and natural moisture thanks to the combined action of negative ions, faster air flow and an easy temperature management.
+        The hairdryer is equipped with a generator of negative ions which micronize the water improving the proper hydration of hair with
+        regenerating effects and making them softer, easier to comb and without “fly-away” effect.</string>
+
+    //maggi
+
+    <string name="maggiIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+
+    <string name="maggieDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+    //cake
+
+    <string name="cakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="cakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+    //pancake
+
+    <string name="pancakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="pancakeDesc">This hairdryer is specially suited to coloured hair. It helps to prevent loss of colour,
+        shine and natural moisture thanks to the combined action of negative ions, faster air flow and an easy temperature management.
+        The hairdryer is equipped with a generator of negative ions which micronize the water improving the proper hydration of hair with
+        regenerating effects and making them softer, easier to comb and without “fly-away” effect.</string>
+
+    //pizza
+
+    <string name="pizzaIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="pizzaDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+    //burgers
+
+    <string name="burgerIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="burgerDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+    //fries
+
+    <string name="friesIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="friesDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+</resources>
